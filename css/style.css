@@ -1938,11 +1938,11 @@ a:hover {
 }
 
 .de_dark a {
-    color: #888;
+    color: #ffffff;
 }
 
 .de_dark a:hover {
-    color: #555;
+    color: #ff0000;
 }
 
 .btn-line,
@@ -3915,7 +3915,7 @@ span.teaser {
 .social-icons-fixed .sc-inner i{
 	display:black;
 	margin:15px 0;
-	font-size:25px;
+	font-size:20px;
 	color:#fff;
 }
 .social-icons-fixed.pf-click{
